@@ -3,7 +3,7 @@
     <div class="content">
       <div class="section">
         <a href="https://discord.com/invite/9XZNnTnhqp" rel="noopener" target="_blank">
-          <!-- <b-icon class="mr-2" icon="discord" pack="fab" size="is-large" /> -->
+          
           <Discord />
         </a>
         <a href="https://reddit.com/r/foxfinance" rel="noopener" target="_blank">
