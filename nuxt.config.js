@@ -16,6 +16,7 @@ export default {
   },
   /*
 	 ** Nuxt target
+   ** Nuxt target
 	 ** See https://nuxtjs.org/api/configuration-target
 	 */
   server: {
