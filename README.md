@@ -17,7 +17,7 @@ $ npm run generate
 $ aws s3 sync dist s3://fox-market
 
 # clear cloudfront cache
-$ aws cloudfront create-invalidation \
+$ aws cloudfront create-invalidation 
     --distribution-id E3MHC1NKTPE0P2 \
     --paths "/" "/homepage" "/homepage/" "/contribution-success" "/contribution-success/"
 ```
