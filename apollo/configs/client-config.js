@@ -2,7 +2,6 @@ import { ApolloLink, split } from 'apollo-link'
 import { createHttpLink } from 'apollo-link-http'
 // import { onError } from 'apollo-link-error'
 import { InMemoryCache } from 'apollo-cache-inmemory'
-// import { WebSocketLink } from 'apollo-link-ws'
 import { getMainDefinition } from 'apollo-utilities'
 import 'subscriptions-transport-ws' // this is the default of apollo-link-ws
 // popup
